@@ -1,0 +1,20 @@
+{
+    "name": "diego_local/exercicios-php",
+    "autoload": {
+        "psr-4": {
+            "Exercicios\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Diego Oliveira da Silva",
+            "email": "diegolinkk@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "scripts": {
+        "test": "phpunit .\\tests"
+    }
+}
