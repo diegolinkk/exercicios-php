@@ -1,3 +1,0 @@
-pelo composer: composer run test
-pelocmd: .\vendor\bin\phpunit .\tests\ --verbose
-__
